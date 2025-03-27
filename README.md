@@ -24,6 +24,8 @@ No nível Novato, você começará implementando a lógica básica de comparaç�
 
 ---
 
+
+
 ## 🏅 Nível Aventureiro
 
 No nível Aventureiro, você expandirá o sistema para incluir a comparação aninhada e a criação de um menu interativo usando `switch`.
